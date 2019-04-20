@@ -117,6 +117,7 @@ public class Icecream {
          
          System.out.println("output:"); 
          System.out.println("output1");
+         System.out.println("output2");
          System.out.println( output1+output2+ output3 + outputm);
          
    //  }
